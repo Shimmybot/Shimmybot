@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tess She/They</h1>
+<h1 align="center">Hi 👋, I'm Tess </h1>
+<h2 alight="right">(She/They)</h2>
 <h3 align="center">I'm a self-taught programmer, bootcamp completer and problem solving enjoyer</h3>
 
 - 🔭 I’m currently working on **a profile site**
