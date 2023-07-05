@@ -2,9 +2,9 @@
 <h2 align="right">(She/They)</h2>
 <h3 align="center">I'm a self-taught programmer, bootcamp completer and problem solving enjoyer</h3>
 
-- 🔭 I’m currently working on **a profile site**
+- 🔭 I’m currently working on **a portfolio site**
 
-- 🌱 I’m currently learning **Next.js and Rust**
+- 🌱 I’m currently learning **Rust and Go**
 
 - 📫 How to reach me **tess@tesshauck.dev**
 
